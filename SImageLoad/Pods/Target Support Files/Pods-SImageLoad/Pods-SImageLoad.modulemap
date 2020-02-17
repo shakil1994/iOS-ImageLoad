@@ -1,0 +1,6 @@
+framework module Pods_SImageLoad {
+  umbrella header "Pods-SImageLoad-umbrella.h"
+
+  export *
+  module * { export * }
+}
